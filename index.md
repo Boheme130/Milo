@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+## Milo
+[回到主页](https://boheme130.github.io/Fiction.git.io/)
+<br>
+<br>
 
-You can use the [editor on GitHub](https://github.com/Boheme130/Milo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+作品：Milo <br>
+作者：Lily Morton <br>
+评分：4.25/5 <br>
 
-### Markdown
+被初恋男友虐待的Milo一直活在阴霾之下，在被从小暗恋的Niall解救后，Milo和Niall在与世隔绝的庄园里工作了5年，期间，Niall一直把Milo当做弟弟照顾。一个意外让Milo搬进了Niall的家，期间两人感情不断升温。但Milo始终笼罩在前男友阴影下十分自卑，同时Niall的竹马炮友是Milo高大帅气的哥哥。但最终Milo克服了种种困难，和Niall得到了爱情
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*这本书里最感动的片段是Milo和Niall刚开始交往的那一段Niall对待Milo的方式。Milo一直无法走出前男友的阴影，甚至无法正常做爱。和Niall第一次上床时，Niall看出了Milo的不适，强调两人是平等的，不需要Milo为了满足Niall忍受不适。人高马大的Niall是一个自信潇洒的alpha male，Milo作为大明星的哥哥之前甚至只让Niall攻他，然而Niall第一次上床时让瘦小的Milo攻他，让Milo享受到了人生中第一次快乐的性。
 
-```markdown
-Syntax highlighted code block
+<br>
+<br>
 
-# Header 1
-## Header 2
-### Header 3
+## 剧情：
+Milo是一个喜欢艺术的小男生，他大学专修油画修复，毕业后进入美术馆成为一名职业古画修复师，并结交了人生第一个男朋友Thomas. Thomas是一个技艺高超的画家，但他一开始用花言巧语骗得了Milo的心后，就开始粗暴地对待他。Milo从小就患有口吃十分自卑，Thomas不断PUA他更是让病情恶化，在Thomas的阴霾下，Milo的生理和心理状况一落千丈。
 
-- Bulleted
-- List
+Niall是Milo哥哥Gideon的炮友和好友，Gideon察觉到弟弟不对劲后让Niall来救他，Niall闯进Thomas的公寓，把Thomas打翻在地，Niall作为上一部Silas的庄园管理员，他把Milo带回了的庄园疗伤，同时Silas给了Milo在庄园修复油画的工作，Milo从此就一直躲在庄园里和Silas, Niall等人过着与世隔绝的生活。
 
-1. Numbered
-2. List
+五年过去了，Oz进入了庄园并和Silas结婚并领养了一个孩子。Oz第一天进庄园就看出Milo一直暗恋Niall，但Niall性格阳光开朗，而且比Milo大了12岁，一直把Milo当做弟弟一样照顾，况且哥哥Gideon还一直和Niall有着约炮关系。Milo一直不敢行动。
 
-**Bold** and _Italic_ and `Code` text
+一天Oz的母亲意外受伤，Oz和Silas要赶回伦敦照料她，于是便把婴儿留给了Milo和Niall照顾。然而，庄园主宅的暖气和热水器突然坏了，为了不冻坏孩子，Milo接受了Niall的邀请，住进了Niall的家。两人一起带孩子度过了浪漫的时光，但Milo一直觉得Niall只是把他当弟弟照顾，然而Niall心里也其实慢慢对Milo产生了其他的想法。为了和Milo度过更多时光，Niall主动让Milo教他瑜伽。
 
-[Link](url) and ![Image](src)
-```
+在做瑜伽时，Milo从后面抱住Niall调整他的动作，结果Milo起了反应，更尴尬的是，他的胯部恰好顶在Niall的屁股上，Niall知道了他的情感，正当两人几乎接吻时，一直对Milo有意思的美术馆管理人员Simeon突然到访，借着要让Milo看画的理由提出要和Milo约会。Milo不想去，但Niall却把Milo推出去约会了。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+在约会上，Simeon看出Milo的心不在焉，放弃了两人情感的发展，然而Milo在约会上喝醉了，回到家里直接一把子骑到了Niall身上强吻了Niall，向他表白，但是又说Niall永远不会喜欢他，因为Niall和他不是一类人，同时，Milo在酒醉中透露了Thomas虐待他的细节，让他对感情产生了阴影。Milo继续说Niall自信的气质让他想起了Thomas, Niall听了很受伤。
 
-### Jekyll Themes
+第二天醒来，Milo想起了一切，急忙向Niall道歉。之后，Milo之前答应了Niall要去看他参加旷野跑步比赛，在昨晚的尴尬后，Niall还是坚持让Milo去现场看他比赛。在比赛后，Niall忍不住吻了Milo，这是两人在清醒状态的第一次接吻，但Milo还是未能走出Thomas的阴影，对感情一直在犹豫。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Boheme130/Milo/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Niall见状赶紧安慰Milo说一切都跟从Milo的节奏，回到家后，Niall准备做爱，但Milo踌躇着透露唯一谈过恋爱的Thomas曾经性虐待他，从此他对做爱有了阴影。Niall听了又生气又心疼，但Milo看着眼前自己从小暗恋到大的Niall还是同意做爱了。Niall告诉Milo两人之间的sex会全部围绕Milo展开，帮助他走出Thomas的阴影。
 
-### Support or Contact
+Milo曾经被Thomas窒息所以很抗拒口交，Niall便没有强迫他。Thomas做top十分粗暴，进入时曾经弄得Milo很痛苦，但Milo现在愿意为了Niall再次做bottom. 然而，Niall告诉Milo做爱是享受而不是忍受，为了调整Milo的心态，人高马大的Niall让瘦弱的Milo攻他，Milo第一次感受到了sex的快乐。
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+两人的感情在这之后不断加深，Milo也在Niall面前慢慢放下心墙。然而突然，Milo的哥哥Gideon突然造访Niall家，要来和Niall打炮。Milo知道哥哥和Niall是青梅竹马还是炮友，在英俊高大的哥哥面前，Milo感到十分自卑，便离开了Niall回到了庄园。
+
+然而Niall追回了Milo，但是两人的感情被哥哥知道了，作为大明星的哥哥从小十分孤独，Niall是他最好的朋友，现在Niall被弟弟抢走Gideon妒火中烧，所有人大吵一架。冷静下来后Niall提出众人去滑雪散心。在滑雪场的木屋里，Milo和Niall，Gideon分别吵了一架，但最后都和解了。Niall意识到Milo想要的是平等的爱情而不是像照顾弟弟一样的情感，Gideon也向弟弟坦白了自己的孤独，兄弟和好。在滑雪场，Milo终于彻底放下心扉，第一次给Niall做0
+
+回到庄园后，Milo和Niall正式开始交往，两人度过了一系列浪漫的时光。在一次美术馆的约会时，两人撞见Simeon, Simeon给了Milo一个区伦敦工作的机会，Milo想拒绝，但Niall却劝他考虑一下。这时，Thomas突然出现，原来他是画展作品的作者。Niall怒火中烧，想向五年前一样痛打Thomas, 但却意识到自己答应Milo不会把他当做弟弟看待. 最终，Milo战胜了心理阴影直面和Thomas发生冲突，战胜了多年的心病。
+
+回到家后，Niall劝Milo接受Simeon的工作邀请，说Milo的才华不应被埋没在乡下，他要去伦敦才能发挥自己的特长。在分别的痛苦中，Milo接下了工作前往伦敦，在分别的火车上，Milo意识到他不需要向别人证明自己，他只想和Niall在一起，于是他离开火车回到了庄园，回到了Niall的家。
+
+*番外是几年后，Niall再次参加旷野跑步比赛，Milo也和几年前一样来到现场给他加油，但这一次，Niall准备了求婚戒指。*
