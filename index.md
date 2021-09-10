@@ -1,5 +1,7 @@
 ## Milo
 [回到主页](https://boheme130.github.io/Fiction.git.io/)
+
+![avatar](https://media.newyorker.com/photos/5cdee4ed53abc44146bb9fd5/master/pass/190527_r34379.jpg)
 <br>
 <br>
 
